@@ -11,10 +11,10 @@ Only retired machines write-ups are to be commited in this repository.
 
 Upcoming writeups:
  - Academy
- - Doctor
  - Jewel
  - Laboratory
  - Passage
  - Time
  - Crossfit
+ - Bucket
  
