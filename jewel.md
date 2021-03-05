@@ -200,7 +200,7 @@ Matching Defaults entries for bill on jewel:
 
 User bill may run the following commands on jewel:
     (ALL : ALL) /usr/bin/gem
-    ```
+```
 
 We see that bill may run /usr/bin/gem as root. We'll abuse the "gem open"
 command that should edit gems, and make it spawn a shell for us:
