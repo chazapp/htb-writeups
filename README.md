@@ -10,10 +10,7 @@ of my state of mind during the assesment.
 Only retired machines write-ups are to be commited in this repository.  
 
 Upcoming writeups:
- - Academy
- - Jewel
  - Laboratory
- - Passage
  - Time
  - Crossfit
  - Bucket
