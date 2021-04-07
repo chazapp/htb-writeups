@@ -11,7 +11,6 @@ Only retired machines write-ups are to be commited in this repository.
 
 Upcoming writeups:
  - Laboratory
- - Time
  - Crossfit
  - Bucket
  
